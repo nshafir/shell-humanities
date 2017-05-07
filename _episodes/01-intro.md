@@ -44,7 +44,7 @@ But in between,
 from the 1950s to the 1980s,
 most people used line printers.
 These devices only allowed input and output of the letters, numbers, and punctuation found on a standard keyboard,
-so programming languages and software interfaces had to be designed around that constraint.
+so programming languages and software interfaces had to be designed around that constraint. Pertinent information is radically news. 
 
 This kind of interface is called a
 **command-line interface**, or CLI,
